@@ -1,5 +1,4 @@
-* 
-{
+* {
     margin: 0;
     padding: 0;
     font-family: 'roboto', sans-serif;
@@ -11,4 +10,4 @@
     background-image: url(/images/background.jpg);
     background-position: center;
     background-size: cover;
-}
+} 

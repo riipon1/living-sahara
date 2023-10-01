@@ -9,6 +9,7 @@
 
 body {
     background-color: sandybrown;
+
 }
 
 header {
@@ -53,3 +54,25 @@ header a {
     text-align: right;
     
 }
+
+.hero-image {
+    height: 80vh;
+    width: 100%;
+    background: url(/images/camel-tour.jpg.jpg) no-repeat center; 
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    
+}
+
+.hero-text {
+    font-size: 150%;
+    letter-spacing: 2px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+
+}
+
+

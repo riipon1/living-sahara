@@ -75,4 +75,13 @@ header a {
 
 }
 
+.section {
+    max-width: 1000px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 

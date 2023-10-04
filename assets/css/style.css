@@ -90,3 +90,26 @@ header a {
     text-align: center;
 }
 
+.container {
+    width: 100%;
+    padding: 0 1em;
+    display: grid;  
+    grid-template-columns: repeat(2,1fr);
+    
+}
+
+.left-image {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.container .left-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 5px;
+
+}

@@ -58,7 +58,7 @@ header a {
 .hero-image {
     height: 80vh;
     width: 100%;
-    background: url(/images/camel-tour.jpg.jpg) no-repeat center; 
+    background: url(../images/camel-tour.jpg.jpg) no-repeat center; 
     display: flex;
     background-size: cover;
     justify-content: center;

@@ -134,3 +134,42 @@ header a {
     padding-left: 15px;
 
 }
+
+.right-image {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.container .right-image {
+    width: 50%;
+    object-fit: cover;
+    padding: 5px;
+    left: 50%;
+    position: absolute;
+
+}
+
+.heading {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sahara-tour {
+    text-align: center;
+    padding-bottom: 5px;
+    padding: 20px;
+
+ 
+}
+
+.left-text p{
+    padding-left: 15px;
+
+}
+
+   
+    

@@ -171,5 +171,23 @@ header a {
 
 }
 
-   
+.container .third-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 15px;
+
+}
     
+.third-image {
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+    margin-top: auto;
+}
+
+.third-text {
+    flex-direction: column;
+    margin-top: auto;
+}

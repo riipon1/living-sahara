@@ -100,7 +100,7 @@ header a {
     
 }
 
-.left-image {
+.first-image{
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -108,12 +108,11 @@ header a {
 
 }
 
-.container .left-image {
+.container .first-image .second-image .third-image {
     width: 100%;
     height: 100%;
     object-fit: cover;
     padding: 5px;
-
 }
 
 .heading {
@@ -126,68 +125,48 @@ header a {
     text-align: center;
     padding-bottom: 5px;
     padding: 20px;
-
- 
 }
 
-.right-text p{
+.first-text p {
     padding-left: 15px;
-
 }
 
-.right-image {
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+.sahara-tour{
+   text-align: center;
+   padding-bottom: 5px;
+   padding: 20px;
 }
 
-.container .right-image {
-    width: 50%;
-    object-fit: cover;
-    padding: 5px;
-    left: 50%;
-    position: absolute;
-
-}
-
-.heading {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.sahara-tour {
-    text-align: center;
-    padding-bottom: 5px;
-    padding: 20px;
-
- 
-}
-
-.left-text p{
-    padding-left: 15px;
-
-}
-
-.container .third-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    padding: 15px;
-
-}
+.second-image{
+     overflow: hidden;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
     
-.third-image {
-    flex-direction: column;
-    justify-content: center;
-    display: flex;
-    overflow: hidden;
-    margin-top: auto;
-}
+    }
 
-.third-text {
-    flex-direction: column;
-    margin-top: auto;
-}
+    .second-text{
+     padding-left: 15px;
+    }
+
+
+    .sandboarding{
+        text-align: center;
+        padding-bottom: 5px;
+        padding: 20px;
+        }
+
+    .third-image{
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+    }
+    
+    .third-text p{
+        padding-left: 15px;      
+        }
+    
+
+     

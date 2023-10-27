@@ -66,7 +66,7 @@
         <h2 class="heading">Activities We Offer</h2>
         <div class="container">
             <div class="first-image">
-                <img src="assets/images/quad-biking.jpg"> alt="Man in protective gear on a quad bike in the desert"
+                <img src="assets/images/quad-biking.jpg" alt="Man in protective gear on a quad bike in the desert">
             </div>
             <div class="first-text">
                 <div>
@@ -120,11 +120,20 @@
 
 
     </section>
-    <section>
-    <div sign-up-form>
-        <h1> Sign Up Form</h1>
-        <form>
-            <input type="email" >
+    <section class="contact-section" id="contact">
+    <div>
+        <form method="get" action="#">
+            <h2>Contact Us</h2>
+            
+            <label for="first-name">First Name:</label>
+            <input type="text" id="first-name" name="first-name" placeholder="First Name" class="text-input" required>
+            <label for="last-name">Last Name:</label>
+            <input type="text" id="last-name" name="last-name" placeholder="Last Name" class="text-input" required>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email-address" placeholder="Email Address" class="text-input" required>
+            <label for="number">Telephone Number:</label>
+            <input type="num" id="telephone" name="telephone-number" placeholder="Telephone Number" class="text-input">
+
         </form>
 
     </div>

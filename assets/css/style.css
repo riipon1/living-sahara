@@ -248,8 +248,7 @@ button {
 .response-page p {
     text-align: center;
     font-size: 30px;
-    /* padding: 20px; */
     color: black;
-    border: 3px solid;
+    padding: 15px;
     
 }

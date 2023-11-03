@@ -219,3 +219,17 @@ button {
     font-size: 15px;
     border: 1px solid;
 }
+
+.social-net {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+    list-style: none;
+}
+
+.social-net i {
+    color: black;
+    font-size: 32px;
+    padding: 16px;
+}

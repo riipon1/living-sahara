@@ -80,10 +80,6 @@ right: 40%;
 
 }
 
-.heading{
-    color: #193f51;
-}
-
 .section {
 max-width: 1000px;
 text-align: center;
@@ -135,6 +131,7 @@ padding: 5px;
 text-align: center;
 padding-top: 20px;
 padding-bottom: 20px;
+color:#193f51;
 }
 
 .quad-biking {
@@ -143,9 +140,13 @@ padding-bottom: 5px;
 padding: 20px;
 }
 
-.first-text p {
-padding-left: 15px;
+.text p{
+
+    color: white;
+    padding-left: 15px;
 }
+
+
 
 .sahara-tour{
 text-align: center;
@@ -161,9 +162,7 @@ justify-content: center;
 
 }
 
-.second-text{
-padding-left: 15px;
-}
+
 
 
 .sandboarding{
@@ -178,10 +177,6 @@ padding-left: 15px;
     flex-direction: column;
     justify-content: center;
 
-}
-
-.third-text p{
-    padding-left: 15px;      
 }
 
 

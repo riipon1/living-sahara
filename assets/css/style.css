@@ -13,22 +13,20 @@ background-color: #D2A46A;
 }
 
 header {
-font-size: 25px;
 text-align: left;
-text-decoration: white;
-padding: 10px;
+padding: 5px;
 display: flex;
 justify-content: space-between;
-}
-
-header a {
-padding: 10px;
 text-decoration: none;
-text-align: center;
-color:whitesmoke;
-font-size: 20px;
-
 }
+
+header a{
+    color: #193f51;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 25px;
+}
+
 
 
 .nav-bar {

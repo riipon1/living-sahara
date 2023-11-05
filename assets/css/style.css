@@ -80,6 +80,10 @@ right: 40%;
 
 }
 
+.heading{
+    color: #193f51;
+}
+
 .section {
 max-width: 1000px;
 text-align: center;
@@ -90,6 +94,7 @@ border: 5px solid whitesmoke;
 margin-top: 2%;
 margin-bottom: 2%;
 }
+
 
 .center {
 margin-left: auto;
@@ -104,6 +109,12 @@ display: grid;
 grid-template-columns: repeat(2,1fr);
 
 }
+
+.container h2{
+
+color:#193f51;
+}
+
 
 .first-image{
 overflow: hidden;

@@ -38,7 +38,7 @@ background-color: transparent;
 overflow: hidden;
 padding: 10px;
 margin-left: 80px;
-display: inline-block;
+
 
 }
 
@@ -145,6 +145,12 @@ text-align: center;
 color:#193f51;
 }
 
+.activities-header{
+    padding: 10px;
+    text-align: center;
+    color:#193f51;
+}
+
 .quad-biking {
 text-align: center;
 padding-bottom: 5px;
@@ -196,7 +202,7 @@ justify-content: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #8BAFB9;
+    background-color: #8BAFBA;
     width: 50%; 
     height: 100%;
     left: 20%;
@@ -271,11 +277,10 @@ button:hover{
 
 
 }
-.color{
-    background-color: #d59972;
-}
+
 
 .response-page {
+    display: flex;
     align-items: center;
     background-image: url(../images/camels-sahara.jpg);
     height: 100vh;
@@ -286,18 +291,23 @@ button:hover{
     
 }
 
+h3 { 
+    text-align: center;
+    margin-bottom: 20%;
+    color: #193f51;
+
+
+}
+
 .response-page p {
     text-align: center;
-    font-size: 20px;
     color: black;
-    padding: 25px;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 10%;
     position: absolute;
-    border: 5px solid;
-    
-    
+    border: 2px solid #193f51;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 4px;
 }
 
 
@@ -305,16 +315,26 @@ button:hover{
     .contact-section{
         width: 100%;
     }
+.response-page{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
 
 }
    
-@media screen and (max-width:900px) {
+@media screen and (max-width:1070px) {
     .container {
         display: flex;
         flex-direction: column;
         justify-content: center;
         text-align: center;
         padding: 5px;
+        
+    }
+
+    .response-page h3{
+        margin-bottom: 55%;
         
     }
 

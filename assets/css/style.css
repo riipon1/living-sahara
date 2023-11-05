@@ -28,6 +28,10 @@ header a{
 }
 
 
+header a:hover{
+    color: whitesmoke;
+}
+
 
 .nav-bar {
 background-color: transparent;
@@ -214,12 +218,19 @@ label {
     
 }
 
-button {
+.button {
     width: 30%;
     padding: 10px;
     margin: 10px;
     font-size: 15px;
     border: 1px solid;
+    color:#193f51;
+}
+
+button:hover{
+    color:whitesmoke;
+    background: #193f51;
+    cursor: pointer;
 }
 
 .social-net {
@@ -236,6 +247,12 @@ button {
     padding: 16px;
 }
 
+
+.social-net i:hover {
+    color: whitesmoke;
+
+
+}
 .color{
     background-color: #d59972;
 }

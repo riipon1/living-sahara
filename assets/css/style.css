@@ -251,8 +251,16 @@ button {
 
 .response-page p {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     color: black;
-    padding: 15px;
+    padding: 25px;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+ 
+
+
+    
     
 }

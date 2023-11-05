@@ -262,3 +262,18 @@ button {
     
     
 }
+
+
+   
+@media screen and (max-width:900px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        
+    }
+
+
+}
+

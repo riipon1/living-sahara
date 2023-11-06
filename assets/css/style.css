@@ -127,7 +127,7 @@ color:#193f51;
 }
 
 
-.first-image .second-image .third-image{
+.first-image{
 overflow: hidden;
 display: flex;
 flex-direction: column;

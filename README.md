@@ -84,6 +84,31 @@ A contact form is also provided for user to fill out their details in order to b
 ![Activities](/documentation/Activities.png)
 ![Activities 3rd image](/documentation/activity.png)
 
+### Contact Us Section Form
+* The form contains fields for the users first name, last name and email address and telephone number as wellas a button to submit the form. 
+
+### Response Page 
+![Response PAge](/documentation/response-page.png)
+* The response page inclues a bright background which complements the main website color scheme. 
+* a message is shown thanking the users for subitting the form and choosing living sahara also conforming their request has been recieved and they will be contacted as soon as possible.
+
+### Footer 
+![Footer](/documentation/footer.png)
+* The footer conatins Social media link icons that open in a new tab. A hover effect is also added in the footer.
+
+## Technologies
+### Languages used:
+* HTML was used as the foundation of the website.
+* CSS was used to create and style the layout of the website.
+
+### Frameworks and programs used:
+* Google developer tools was used for testing features, styling and responsiveness of the website. It was also useful for solving bugs.
+* Font Awesome was used for the social media links.
+* Git pod was used to write and edit code.
+* Balsamiq was used to create wireframe.
+* Git was used for version control of the website and Github was used to store and save files as well as enabling to host the source code.
+ * ![Am I Responsive?](https://ui.dev/amiresponsive) used to show image of website layout of different devices.
+
 
 
 

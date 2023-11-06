@@ -160,8 +160,17 @@ https://github.com/riipon1/living-sahara.git
 * Sign in to GitHub. Find the repository project and click fork in the top right corner below the settings tab.
 
 ## Validator Testing 
-* W3C validator was used to validate Index html and response page.
-* It was also used for validating the CSS and stylesheet in the css file. 
+* W3C validator was used to validate Index html and Response.html page.
+* W3C jigsaw validator was also used for validating the CSS and stylesheet in the css file. 
+
+![Index.html page](/documentation/w3cindex.png)
+![Response.html page](/documentation/w3cresponse.png)
+![style.css CSS](/documentation/css-validator.png)
+
+
+Both html files and css passed the checks with no errors found.
+
+
 
 
 

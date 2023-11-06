@@ -44,7 +44,10 @@ The color palette was created using the [Coolors](/documentation/color-palette.p
 ![Contact wireframe](/documentation/Balsamiq-3.png)
 
 ## Features
+
+![home page](/documentation/home.png) 
+
 Living Sahara website consist of three different section on a page. mains home page has navegation menu which helps the user find different sections of the website. 
 A contact form is also provided for user to fill out their details in order to be contacted by experts. 
 
-![home page](/documentation/home.png) 
+

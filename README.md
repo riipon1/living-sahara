@@ -170,6 +170,10 @@ https://github.com/riipon1/living-sahara.git
 
 Both html files and css passed the checks with no errors found.
 
+---
+### Lighthouse
+
+
 
 
 

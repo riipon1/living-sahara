@@ -135,7 +135,41 @@ Response Page:
 [Tiny PNG](https://tinypng.com/) used to compress images. 
 
 ## Deployment and Local Deployment
-## Deployment
+
+This site was deployed using Github Pages.
+Steps are as follows:
+* Login to Git Hub
+* Find repository for the project then navigate to settings tab
+* Beside the navgiation bar click on the page's link as shown
+* Select main branch from the drop-down selection also selecy root from the drop down folder menu
+* Finally, press save and your live Github pages should now be deployed!
+
+## How to Clone
+
+A copy of this project can be found by cloning it the steps are below:
+* Sign in to Git Hub
+* Find the repository for the project - 'Living Sahara'.
+* Click the green code button and press 'local'. You have three options to clone with HTTPS, SSH or GitHub CLI. Copy the link preffered. 
+* In the IDE terminal type 'git clone' and paste the link you have copied.
+
+The HTTPS link to clone my repository is:
+https://github.com/riipon1/living-sahara.git
+
+## How to fork repo
+
+* Sign in to GitHub. Find the repository project and click fork in the top right corner below the settings tab.
+
+## Validator Testing 
+* W3C validator was used to validate Index html and response page.
+* It was also used for validating the CSS and stylesheet in the css file. 
+
+
+
+
+
+
+
+
 
 
 

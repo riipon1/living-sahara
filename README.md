@@ -107,7 +107,8 @@ A contact form is also provided for user to fill out their details in order to b
 * Git pod was used to write and edit code.
 * Balsamiq was used to create wireframe.
 * Git was used for version control of the website and Github was used to store and save files as well as enabling to host the source code.
- * ![Am I Responsive?](https://ui.dev/amiresponsive) used to show image of website layout of different devices.
+ 
+ * [Am I Responsive?](https://ui.dev/amiresponsive) used to show image of website layout of different devices.
 
 
 

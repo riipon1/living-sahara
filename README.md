@@ -34,6 +34,9 @@ Living Sahara is responsive and Sahara adventure tour website. Users are able to
 
 The color palette was created using the [Coolors](/documentation/color-palette.png) website.
 
+### typography
+
+
 
 
 

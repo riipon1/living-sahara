@@ -21,13 +21,16 @@ justify-content: space-between;
 text-decoration: none;
 }
 
-header a{
+.logo{
     color: #193f51;
     text-decoration: none;
     font-size: 40px;
     margin-left: 25px;
 }
 
+.logo:hover{
+color: whitesmoke;
+}
 
 header a:hover{
     color: whitesmoke;
@@ -101,6 +104,10 @@ margin-bottom: 2%;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
+}
+
+table{
+    width: 50%;
 }
 
 .table-1{

@@ -120,7 +120,7 @@ Images were taken from [Pexels](https://www.pexels.com)
 * [Hero image](https://www.pexels.com/photo/people-riding-camels-on-the-desert-5614643/)
 
  Activities:
- 
+
 * [First image](https://www.pexels.com/photo/man-in-helmet-on-quad-bike-in-desert-5098033/)
 * [Second image](https://www.pexels.com/photo/people-riding-on-camels-1703312/)
 
@@ -129,6 +129,10 @@ Images were taken from [Pexels](https://www.pexels.com)
 Response Page:
 
 * [Background image](https://www.pexels.com/photo/people-riding-camels-on-desert-9351229/)
+
+### Tools Used
+
+[Tiny PNG](https://tinypng.com/) used to compress images. 
 
 ## Deployment and Local Deployment
 ## Deployment

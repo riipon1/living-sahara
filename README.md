@@ -119,13 +119,15 @@ Images were taken from [Pexels](https://www.pexels.com)
 
 * [Hero image](https://www.pexels.com/photo/people-riding-camels-on-the-desert-5614643/)
 
-- Activities 
+ Activities:
+ 
 * [First image](https://www.pexels.com/photo/man-in-helmet-on-quad-bike-in-desert-5098033/)
 * [Second image](https://www.pexels.com/photo/people-riding-on-camels-1703312/)
 
 * [Third image](https://www.pexels.com/photo/a-man-sandboarding-in-the-desert-10120062/)
 
-- Response Page 
+Response Page:
+
 * [Background image](https://www.pexels.com/photo/people-riding-camels-on-desert-9351229/)
 
 ## Deployment and Local Deployment

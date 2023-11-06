@@ -35,10 +35,12 @@ Living Sahara is responsive and Sahara adventure tour website. Users are able to
 The color palette was created using the [Coolors](/documentation/color-palette.png) website.
 
 ### typography
+*Cambria and Times new Roman were used as the chosen font to increase readability of the website and to give cleaner and modern style.
 
-
-
-
-
+### Wireframes
+* I used balsamiq to create wireframe for mobile, tablets and desktop screens
+![Home wireframe](/documentation/Balsamiq-1.png)
+![About wireframe](/documentation/Balsamiq-2.png)
+![Contact wireframe](/documentation/Balsamiq-3.png)
 
 

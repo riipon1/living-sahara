@@ -50,4 +50,40 @@ The color palette was created using the [Coolors](/documentation/color-palette.p
 Living Sahara website consist of three different section on a page. mains home page has navegation menu which helps the user find different sections of the website. 
 A contact form is also provided for user to fill out their details in order to be contacted by experts. 
 
+### Hero section 
+* Hero section contains a bright image of sahara desert tour which covers the page when loaded. 
+* Hero text in bold is also included centered in the image to attrack viewes of the website to continue browsing 
+
+
+### Navbar
+
+![Navigation](/documentation/header.png)
+
+* Header is aligned to the left as the main logo - users can click to redirect them to main home page. 
+
+* The navbar also contains the navigation links which is displayed as an inline block at the top of the page which allows users viewing the website to easily navigate to their desired sections. 
+
+* About us - this leads the user to about us section where they can find a brief summary of sahara desert and what activities we offer in our tours. a table is also shown to inform the travellers of the best ties to visit the desert.
+* Activities - This leads to the activities we have in offer for the users giving a brief discription of the experiences travellers can expect to enjoy. 
+* Contact - this leads to the contact form which user's can fill out their details in order to be contacted by our experts to answer enquires acordingly and to book short trips and expeditions.
+* All the links have an animated hovor effect which changes to the color whitesmoke, making it easy navigate and a cursor pointer is also shown for clickable features.
+
+
+### About Us Section 
+![About us](/documentation/About.png)
+
+* This gives the user an overral viewing of what the Living Sahara website is which is aimed to encourage and attarct travellers to visit the Sahara desert making use of the activites and tours in offer to appreciate the beauty of the sandy deserts.
+
+* A table is provided which may help users to plan their trip in accordance with the weather temperatures which are best to visit.
+
+---
+
+### Activities 
+
+![Activities section](/documentation/activities-section.png)
+![Activities](/documentation/Activities.png)
+![Activities 3rd image](/documentation/activity.png)
+
+
+
 

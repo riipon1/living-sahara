@@ -179,11 +179,24 @@ Lighthouse was used in the chrome developer tools to test the performance access
 ![Desktop Lighthouse report](/documentation/desktop-lighthouse.png)
 
 ## Solved Bugs
+* The header logo and nav links were not in alignment and the logo appeared as a link. This was fixed using text-align and text decoration to 'none'.
 
+* There was issues with the image sizes reducing download time. I compressed the images as much as possible and improved the lighthouse performance.
+
+* The form labels and text input were overflowing from the div section when on smaller devices. This was solved using display:flex and media queries. 
 
 ## Future Improvements
-* The header logo and nav links were not in alignment and the logo appeared as a link. This was fixed using text-align and text decoration to 'none'.
-* 
+
+* I would like to improve the lighthouse performance and optimize the page loading times with less heavy images/files. Even though this was compressed it could be improved in the future.
+
+* I also acknowledge that the quality of my commit messages should be improved in my future projects.
+
+* In the future I would improve my wesbite by adding more in depth content so that there is returning users who can select activities they would like to book and directly send a request using a textarea field.
+
+
+
+
+
 
 
 

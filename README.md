@@ -193,7 +193,8 @@ Lighthouse was used in the chrome developer tools to test the performance access
 
 * In the future I would improve my wesbite by adding more in depth content so that there is returning users who can select activities they would like to book and directly send a request using a textarea field.
 
-
+## Acknowledgments
+- [Code Institute](https://codeinstitute.net/) for all tutor and support assistance. 
 
 
 

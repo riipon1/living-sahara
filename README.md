@@ -172,6 +172,12 @@ Both html files and css passed the checks with no errors found.
 
 ---
 ### Lighthouse
+Lighthouse was used in the chrome developer tools to test the performance accessibility, best practices and SEO of the website. I tested both for mobile and desktop devices.
+
+![Mobile Lighthouse report](/documentation/mobile-lighthouse.png)
+
+![Desktop Lighthouse report](/documentation/desktop-lighthouse.png)
+
 
 
 

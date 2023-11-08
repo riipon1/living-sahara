@@ -178,6 +178,14 @@ Lighthouse was used in the chrome developer tools to test the performance access
 
 ![Desktop Lighthouse report](/documentation/desktop-lighthouse.png)
 
+## Solved Bugs
+
+
+## Future Improvements
+* The header logo and nav links were not in alignment and the logo appeared as a link. This was fixed using text-align and text decoration to 'none'.
+* 
+
+
 
 
 

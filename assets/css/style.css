@@ -1,226 +1,220 @@
 /* Global Styles */
 *,
 *::before,
-*::after{
-box-sizing: border-box;
-border: none;
-margin: 0;
-padding: 0;
+*::after {
+    box-sizing: border-box;
+    border: none;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-background-color: #D2A46A;
-font-family:Cambria, 'Times New Roman';
-
+    background-color: #D2A46A;
+    font-family: Cambria, 'Times New Roman';
 }
 
 /*Header and logo styling*/
 
 header {
-text-align: left;
-padding: 5px;
-display: flex;
-justify-content: space-between;
-text-decoration: none;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
 }
 
 header a {
     text-decoration: none;
 }
 
-.logo{
+.logo {
     color: #193f51;
     text-decoration: none;
     font-size: 40px;
     margin-left: 25px;
-    
+
 }
 
-.logo:hover{
-color: whitesmoke;
+.logo:hover {
+    color: whitesmoke;
 }
 
-header a:hover{
+header a:hover {
     color: whitesmoke;
 }
 
 /*Navigation link styles*/
 
 .nav-bar {
-background-color: transparent;
-overflow: hidden;
-padding: 10px;
-margin-left: 80px;
-
+    background-color: transparent;
+    overflow: hidden;
+    padding: 10px;
+    margin-left: 80px;
 }
 
 .nav-bar a {
-color: #193f51;
-font-size: 20px;
-text-decoration: none;
-padding: 25px 20px;
-font-weight: bold;
-text-align: center;
-
+    color: #193f51;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 25px 20px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .nav-bar li {
-margin-right: 30px;
-display: inline-block;
-
-
+    margin-right: 30px;
+    display: inline-block;
 }
+
 /*Hero image and hero text styling*/
 
 .hero-image {
-height: 100vh;
-width: 100%;
-background: url(../images/camel-tour.webp.jpg) no-repeat center; 
-display: flex;
-background-size: cover;
-justify-content: center;
-position: relative;
+    height: 100vh;
+    width: 100%;
+    background: url(../images/camel-tour.webp.jpg) no-repeat center;
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    position: relative;
 
 }
 
 .hero-text {
-font-size: 110%;
-letter-spacing: 2px;
-text-align: center;
-position: absolute;
-top: 58%;
-color:#193f51;
-right: 40%;
+    font-size: 110%;
+    letter-spacing: 2px;
+    text-align: center;
+    position: absolute;
+    top: 58%;
+    color: #193f51;
+    right: 40%;
 
 }
 
 /*About us section styling*/
 
 .section {
-max-width: 1000px;
-text-align: center;
-font-size: 15px;
-margin: 0 auto;
-padding: 20px;
-border: 5px solid whitesmoke;
-margin-top: 2%;
-margin-bottom: 2%;
+    max-width: 1000px;
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid whitesmoke;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .heading {
     text-align: center;
-    color:#193f51;
-    }
+    color: #193f51;
+}
 
-.section p{
-    color:#483b3a; 
+.section p {
+    color: #483b3a;
 }
 
 /*Table content styles*/
 
 .center {
-margin-left: auto;
-margin-right: auto;
-text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
-table{
+table {
     width: 50%;
 }
 
-.table-1{
+.table-1 {
     background-color: #5D392E;
     color: whitesmoke;
-
 }
 
-.table-2{
+.table-2 {
     background: #483b3a;
     color: whitesmoke;
 }
+
 /*Activities h2 section styling*/
 
-.activities-header{
+.activities-header {
     padding: 10px;
     text-align: center;
-    color:#193f51;
+    color: #193f51;
 }
 
 /*Activities div container styling for images and text*/
 
 .container {
-width: 100%;
-padding: 0 1em;
-display: grid;  
-grid-template-columns: repeat(2,1fr);
-
+    width: 100%;
+    padding: 0 1em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
 
-.container h2{
-color:#193f51;
+.container h2 {
+    color: #193f51;
 }
 
-.first-image{
-overflow: hidden;
-display: flex;
-flex-direction: column;
+.first-image {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 .container .first-image .second-image .third-image {
-object-fit: cover;
-padding: 5px;
-width: 100%;
-height: 100%;
+    object-fit: cover;
+    padding: 5px;
+    width: 100%;
+    height: 100%;
 }
 
 .quad-biking {
-text-align: center;
-padding-bottom: 5px;
-padding: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding: 20px;
 }
 
-.text p{
+.text p {
 
     color: #483b3a;
     padding-left: 15px;
     font-size: 17px;
 }
 
-.sahara-tour{
-text-align: center;
-padding-bottom: 5px;
-padding: 20px;
-}
-
-.second-image{
-overflow: hidden;
-display: flex;
-flex-direction: column;
-justify-content: center;
-}
-
-.sandboarding{
+.sahara-tour {
     text-align: center;
     padding-bottom: 5px;
     padding: 20px;
 }
 
-.third-image{
+.second-image {
     overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
+.sandboarding {
+    text-align: center;
+    padding-bottom: 5px;
+    padding: 20px;
+}
+
+.third-image {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 /* Contact us form section styling*/
 
-.contact-section{
+.contact-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: #8BAFBA;
-    width: 50%; 
+    width: 50%;
     height: 100%;
     left: 20%;
     padding: 20px;
@@ -233,7 +227,7 @@ justify-content: center;
 .contact-section h2 {
     text-align: center;
     padding: 15px;
-    
+
 }
 
 form {
@@ -244,19 +238,20 @@ form {
 }
 
 label {
-    font-size:15px;
+    font-size: 15px;
     padding: 5px;
     border: 5px;
     color: black;
-
 }
-.text-input{
+
+.text-input {
     padding: 3px;
     height: 25px;
     margin: 5px 0 20px 0;
     width: 50%;
-    
+
 }
+
 /*Form submit button styling*/
 
 .button {
@@ -265,14 +260,15 @@ label {
     margin: 10px;
     font-size: 15px;
     border: 1px solid;
-    color:#193f51;
+    color: #193f51;
 }
 
-button:hover{
-    color:whitesmoke;
+button:hover {
+    color: whitesmoke;
     background: #193f51;
     cursor: pointer;
 }
+
 /*Footer social links styling*/
 
 .social-net {
@@ -289,11 +285,8 @@ button:hover{
     padding: 16px;
 }
 
-
 .social-net i:hover {
     color: whitesmoke;
-
-
 }
 
 /*Response page styling with background image and text*/
@@ -307,10 +300,9 @@ button:hover{
     background-size: cover;
     justify-content: center;
     position: relative;
-    
 }
 
-h3 { 
+h3 {
     text-align: center;
     margin-bottom: 20%;
     color: #193f51;
@@ -327,23 +319,23 @@ h3 {
     border-radius: 4px;
 }
 
-
 /*All Media queries*/
 
-@media all and (max-width:581px){
-    .contact-section{
+@media all and (max-width:581px) {
+    .contact-section {
         width: 100%;
     }
-.response-page{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-}
+
+    .response-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
 
 }
 
 /*Media queries for smaller screen devices*/
-   
+
 @media screen and (max-width:1070px) {
     .container {
         display: flex;
@@ -351,12 +343,9 @@ h3 {
         justify-content: center;
         text-align: center;
         padding: 5px;
-        
     }
 
-    .response-page h3{
+    .response-page h3 {
         margin-bottom: 55%;
-        
     }
-
 }

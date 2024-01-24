@@ -49,7 +49,8 @@ header a:hover {
     background-color: transparent;
     overflow: hidden;
     padding: 10px;
-    margin-left: 80px;
+    margin-left: 20px;
+    display: flex;
 }
 
 .nav-bar a {
@@ -322,7 +323,7 @@ button:hover {
 
 /*All Media queries*/
 
-@media all and (max-width:581px) {
+@media all and (max-width:600px) {
     .contact-section {
         width: 100%;
     }
@@ -342,7 +343,7 @@ button:hover {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        text-align: center;
+        text-align: center; 
         padding: 5px;
     }
 

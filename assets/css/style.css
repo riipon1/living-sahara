@@ -49,8 +49,8 @@ header a:hover {
     background-color: transparent;
     overflow: hidden;
     padding: 10px;
-    margin-left: 20px;
     display: flex;
+
 }
 
 .nav-bar a {
@@ -63,8 +63,11 @@ header a:hover {
 }
 
 .nav-bar li {
-    margin-right: 30px;
     display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
+    white-space: nowrap;
 }
 
 /*Hero image and hero text styling*/
@@ -323,7 +326,7 @@ button:hover {
 
 /*All Media queries*/
 
-@media all and (max-width:600px) {
+@media all and (max-width:768px) {
     .contact-section {
         width: 100%;
     }
@@ -350,4 +353,5 @@ button:hover {
     .response-text {
         margin-bottom: 55%;
     }
+
 }

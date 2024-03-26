@@ -63,6 +63,7 @@ header a:hover {
     font-weight: bold;
     text-align: center;
     align-items: center;
+   
 }
 
 .nav-bar li {
@@ -367,5 +368,11 @@ button:hover {
 
     .nav-bar a {
         padding: 10px 0;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .nav-bar a {
+        padding: 10px; /* Adjust padding for tablet mode */
     }
 }

@@ -373,6 +373,6 @@ button:hover {
 
 @media screen and (max-width: 1080px) {
     .nav-bar a {
-        padding: 10px; /* Adjust padding for tablet mode */
+        padding: 10px; 
     }
 }
